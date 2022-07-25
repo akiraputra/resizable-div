@@ -1,0 +1,11 @@
+.resizable {
+  height: 5rem;
+  width: 14rem;
+  color: tomato;
+  border: 2px solid tomato;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: auto;
+  resize: auto;
+}
